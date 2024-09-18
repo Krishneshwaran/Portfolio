@@ -44,7 +44,7 @@ export const experiencesData = [
 
 export const projectsData = [
   {
-    title: "• Philosophical AI",
+    title: "Philosophical AI",
     description:
       "Developed a Philosophical AI that generates insights and responses based on quotes from renowned philosophers.",
     tags: [
