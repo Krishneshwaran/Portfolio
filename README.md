@@ -107,4 +107,4 @@ I’m also keen on sharing my insights and knowledge, whether it's through proje
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+
